@@ -6,7 +6,6 @@ I develop solutions using ASP.NET, C#, and Microsoft SQL Server (T-SQL) to autom
 
 ## 👨‍💻 About Me
 
-- 🏢 Working as a Software Developer at Archman
 - 📚 Part-time student at WSEI Cracow
 - 🌱 Passionate about continuous learning and staying up-to-date with latest technologies
 - 🧪 Love exploring AI, new programming languages, and industry best practices
