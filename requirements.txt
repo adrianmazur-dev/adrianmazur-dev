@@ -1,0 +1,4 @@
+svgwrite
+pygithub
+pillow
+python-dotenv
